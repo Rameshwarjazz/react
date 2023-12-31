@@ -1,5 +1,5 @@
 const config={
-    appwriteUrlId:String(process.env.REACT_APP_APPWRITE_URL),
+    appwriteUrl:String(process.env.REACT_APP_APPWRITE_URL),
     appwriteProjectId:String(process.envREACT_APP_APPWRITE_PROJECT_ID),
     appwriteDatabaseId:String(process.env.REACT_APP_APPWRITE_DATABASE_ID),
     appwriteCollectionId:String(process.env.REACT_APP_APPWRITE_COLLECTION_ID),
